@@ -1,3 +1,8 @@
+/* 
+    JavaScript is a dynamically typed language. This means that you don't have to specify the data type of a variable when you declare it. 
+    The JavaScript engine automatically determines the data type based on the value assigned to the variable. 
+*/
+
 const Fruit = "Apple";
 
 // Single-line comment: This is a simple JavaScript file demonstrating basic syntax
