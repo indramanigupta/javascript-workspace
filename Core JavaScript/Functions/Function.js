@@ -414,3 +414,60 @@ const factorialNamed = function fact(n) {
 };
 console.log(factorialNamed(5)); // Output: 120
 // In this example, the named function expression fact allows the function to call itself recursively, even though it is assigned to the variable factorialNamed.
+
+
+// Function expressions can be anonymous (without a name) or named.
+
+const factorialFunc1 = function factorial(n) {
+    if (n === 0 || n === 1) {
+        return 1;
+    }
+    return n * factorial(n - 1);
+}; 
+console.log(factorialFunc1(5)); // Output: 120
+
+// Default parameters
+
+// Default parameters allow you to specify default values for function parameters.
+
+function greetWithDefault(name = "Guest") {
+    return "Hello, " + name + "!";
+}
+
+// With default parameters, a manual check in the function body is no longer necessary.
+
+function multiply(a, b = 10) {
+    return a * b;
+}
+
+console.log(multiply(5)); // Output: 50
+console.log(multiply(5, 3)); // Output: 15
+
+
+// Rest parameters
+// Rest parameters allow a function to accept an indefinite number of arguments as an array.
+
+function sum(...args) {
+    return args.reduce((acc, val) => acc + val, 0);
+}
+
+console.log(sum(1, 2, 3)); // Output: 6
+console.log(sum(10, 20, 30, 40, 50)); // Output: 150
+
+// Arrow functions:
+// Arrow functions provide a more concise syntax for writing function expressions.
+// They are often used for short functions or when you want to preserve the context of 'this' from the surrounding code.
+
+const square = (x) => x * x;
+console.log(square(5)); // Output: 25
+
+
+// Shorter functions:
+
+// Shorter functions can be created using arrow function syntax, especially for simple operations.
+
+const addShort = (a, b) => a + b;
+console.log(addShort(3, 4)); // Output: 7
+
+const a3 = a.map((s) => s.length);
+console.log(a3); // [8, 6, 7, 9]

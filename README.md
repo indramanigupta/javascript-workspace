@@ -9,6 +9,16 @@ JavaScript Development and Learning
 
 4. Functions - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 
+5. Expressions and operators - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators
 
+6. Numbers and strings - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Numbers_and_strings
 
+7. Representing dates times - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Representing_dates_times
 
+8. Regular expressions - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions
+
+9. Indexed Collections - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Indexed_collections
+
+10. Keyed Collections - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections
+
+11. 
