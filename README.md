@@ -21,4 +21,9 @@ JavaScript Development and Learning
 
 10. Keyed Collections - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections
 
-11. 
+11. Working with objects - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects
+
+12. Using Classes - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_classes
+
+13. Using promises - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
+

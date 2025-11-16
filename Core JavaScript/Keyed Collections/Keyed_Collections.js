@@ -74,6 +74,10 @@ console.log('weakSet.has(obj) =', weakSet.has(obj)); // true
 
 // WeakMap/WeakSet do not prevent their keys from being garbage collected and do not support iteration.
 
+
+// WeakSet object
+// WeakSet objects are collections of garbage-collectable values, including objects and non-registered symbols. A value in the WeakSet may only occur once. It is unique in the WeakSet's collection.
+
 // -------------------- Advanced Patterns --------------------
 
 // 1. Map for Memoization (caching expensive function results)
