@@ -27,3 +27,8 @@ JavaScript Development and Learning
 
 13. Using promises - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
 
+14. Iterators and generators - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_generators
+
+15. Resource management - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Resource_management
+
+16. Internationalization - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Internationalization
