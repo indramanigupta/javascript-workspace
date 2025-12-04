@@ -32,3 +32,21 @@ JavaScript Development and Learning
 15. Resource management - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Resource_management
 
 16. Internationalization - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Internationalization
+
+#######################################################################################
+
+Intermediate JavaScript:
+
+17. Enumerability and ownership of properties - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Enumerability_and_ownership_of_properties
+
+18. Closures - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Closures
+
+#######################################################################################
+
+Advanced JavaScript:
+
+19. Inheritance_and_the_prototype_chain - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain
+
+20. Memory management - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Memory_management
+
+21. Meta programming - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Meta_programming
